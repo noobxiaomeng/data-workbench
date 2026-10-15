@@ -1,0 +1,14 @@
+{
+  "name": "data-workbench",
+  "version": "1.0.0",
+  "description": "数据分析工作台",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "init": "node scripts/init-env.js",
+    "check": "node scripts/check-deps.js"
+  },
+  "keywords": ["data", "analysis", "visualization", "workbench"],
+  "author": "noobxiaomeng",
+  "license": "MIT"
+}
